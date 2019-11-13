@@ -1,2 +1,1 @@
-# Trabajo
-trabajo nro1
+Trabajos programacion
